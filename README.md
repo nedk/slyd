@@ -1,4 +1,4 @@
 slyd
 ====
 
-a sliding puzzle game
+A sliding puzzle game by Ned Kahvo (@nedkahvo)
